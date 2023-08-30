@@ -1,6 +1,6 @@
 # About me
 👋 Hi, I’m Anastasia Bystrova<br/>
-✨ I'm 21 y.o.
+✨ I'm 22 y.o.
 ## Things I work with
 ✨React✨JavaScript✨HTML✨CSS✨
 
